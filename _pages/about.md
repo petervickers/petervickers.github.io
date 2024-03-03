@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_me.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Scientist with specialisation in Natural Language Processing and Multimodal AI. Currently, I am in the final year of my Ph.D. at The University of Sheffield, where my research focuses on augmenting language models with multimodal information. My advisor is [Nikos Aletras](https://nikosaletras.com/), and previously [Loïc Barrault](https://loicbarrault.github.io/). My PhD is dual-funded by the [UKRI Centre for Doctoral Training (CDT) in Speech and Language Technologies](https://slt-cdt.sheffield.ac.uk/) and an [Amazon Studentship Grant](https://www.amazon.jobs/en-gb/business_categories/student-programs).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work is enhancing models' capabilities through multimodal data for tasks including Visual Question Answering, Text-to-Image Retrieval, and Citation Recommendation.
+
+During my PhD, I have joined the JSALT summer workshop twice:  [Multi-lingual Speech to Speech Translation for Under-Resourced Languages](https://www.clsp.jhu.edu/speech-translation-for-under-resourced-languages/) in Johns Hopkins, Baltimore, USA (2022) and [Better Together: Text + Context](https://jsalt2023.univ-lemans.fr/en/better-together-text-context.html) in Le Mans, France (2023). At Amazon UK I interned as an Applied Scientist where I adapted Vision-Language models for Text-Image Retrieval (2022-2023).
+
+Before my Ph.D, I took an MSc in [Computer Science with Speech and NLP](https://www.sheffield.ac.uk/postgraduate/taught/courses/2024/computer-science-speech-and-language-processing-msc) from the University of Sheffield, and a BA in [English Language and Literature](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature) from Magdalen College, Oxford.
+
+My free time I enjoy backcountry ski tours: the Hardangervidda and Jotunheimen areas of Norway are my favourite. In 2022 I took part in a two-week trip to the High Arctic in Trollheimen, Svalbard where I first learned to build igloos. After submitting my thesis, I will lead the five week 2024 UK [Stauning Alps](https://en.wikipedia.org/wiki/Stauning_Alps) expedition to Eastern Greenland.
