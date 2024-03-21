@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://petervickers.github.io/al-folio/sitemap.xml
+Sitemap: https://petervickers.github.io/sitemap.xml
