@@ -7,21 +7,25 @@ subtitle:
 profile:
   align: right
   image: prof_me.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: 
+  image_circular: false
+  more_info:
 
-news: true # includes a list of news items
-latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+latest_posts: false
+selected_papers: false
+social: true
 ---
 
-I am a Computer Scientist with specialisation in Natural Language Processing and Multimodal AI. Currently, I am in the final year of my Ph.D. at The University of Sheffield, where my research focuses on augmenting language models with multimodal information. My advisor is [Nikos Aletras](https://nikosaletras.com/), and previously [Loïc Barrault](https://loicbarrault.github.io/). My PhD is dual-funded by the [UKRI Centre for Doctoral Training (CDT) in Speech and Language Technologies](https://slt-cdt.sheffield.ac.uk/) and an [Amazon Studentship Grant](https://www.amazon.jobs/en-gb/business_categories/student-programs).
+I am a Research Scientist at [Spotify](https://research.atspotify.com/) in Toronto working on Natural Language Processing and multimodal AI.
 
-My work is enhancing models' capabilities through multimodal data for tasks including [Visual Question Answering](https://aclanthology.org/2021.acl-short.60/), Text-to-Image Retrieval, and Citation Recommendation. I am also interested in [better metrics](https://aclanthology.org/2023.ijcnlp-main.33/) for these tasks.
+My research focuses on how language models integrate text, vision, and context, with applications including multimodal retrieval, document understanding, and retrieval-augmented generation. I am particularly interested in how evaluation metrics shape system design and research priorities.
 
-During my PhD, I joined the JSALT summer workshop twice:  [Multi-lingual Speech to Speech Translation for Under-Resourced Languages](https://www.clsp.jhu.edu/speech-translation-for-under-resourced-languages/) in Johns Hopkins, Baltimore, USA (2022) and [Better Together: Text + Context](https://jsalt2023.univ-lemans.fr/en/better-together-text-context.html) in Le Mans, France (2023). At Amazon UK I interned as an Applied Scientist where I adapted Vision-Language models for Text-Image Retrieval (2022-2023).
+Before joining Spotify I worked at Northeastern University's Institute for Experiential AI, where I led GenAI consulting projects and built large-scale RAG systems deployed across medical and technical domains.
 
-Before my Ph.D, I had an MSc in [Computer Science with Speech and NLP](https://www.sheffield.ac.uk/postgraduate/taught/courses/2024/computer-science-speech-and-language-processing-msc) from the University of Sheffield, and a BA in [English Language and Literature](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature) from Magdalen College, Oxford.
+I completed my PhD at the [University of Sheffield](https://www.sheffield.ac.uk/) under [Nikos Aletras](https://nikosaletras.com/) and [Loïc Barrault](https://loicbarrault.github.io/), where my research explored augmenting language models with multimodal signals. My work includes publications at ACL, EMNLP, and AACL.
 
-In my free time I enjoy backcountry ski tours: the Hardangervidda and Jotunheimen areas of Norway are my favourite. In 2022 I took part in a two-week trip to the High Arctic in Trollheimen, Svalbard where I learned to build igloos. After submitting my thesis, I will lead the five week 2024 UK [Stauning Alps](https://en.wikipedia.org/wiki/Stauning_Alps) expedition to Eastern Greenland.
+During my PhD I participated in the JSALT summer workshops in Baltimore ([Speech-to-Speech Translation for Under-Resourced Languages](https://www.clsp.jhu.edu/speech-translation-for-under-resourced-languages/), 2022) and Le Mans ([Better Together: Text + Context](https://jsalt2023.univ-lemans.fr/en/better-together-text-context.html), 2023), and interned as an Applied Scientist at [Amazon](https://www.amazon.science/) adapting large-scale vision–language models for text–image retrieval.
+
+Before computer science I studied [English Language and Literature](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature) at [Magdalen College, Oxford](https://www.magd.ox.ac.uk/).
+
+Outside research I write poetry and swim in Lake Ontario with a group of stubborn dawn swimmers. I once spent a month backcountry skiing in Greenland. It was, all things considered, relatively peaceful.
