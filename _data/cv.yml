@@ -1,0 +1,4 @@
+---
+# Fallback CV data file used when assets/json/resume.json is absent.
+# Keeping this file avoids broken local file links in documentation checks.
+
